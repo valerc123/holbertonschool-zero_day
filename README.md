@@ -1,1 +1,1 @@
-My first repo!
+Holberton School.
